@@ -3,5 +3,6 @@ const submit = function () {
     let nameValue = document.getElementById('name').value;
     let message = " Name: " + nameValue + ", Message: " + messageValue;
     console.log(message);
+    message;
 }
 fetch('http://raichaudhry.com/message-board/txt.json')
