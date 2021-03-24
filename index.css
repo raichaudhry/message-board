@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+html {
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+}
+topbar {
+    text-align: center;
+    background-image: url(bg-image.jpg);
+}
+button {
+ border-radius: 12px;
+ font-size: 20px;
+ background-color: #e7e7e7; color: black;
+}
